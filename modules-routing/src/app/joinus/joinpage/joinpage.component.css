@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 75px;
+    
+}
+
+.fb{
+    text-align: center;
+    width: 33.33%;
+    float: left;
+    height: 275px;
+}
+.tg{
+    width: 33.33%;
+    float: right;
+    height: 275px;
+}
+.tw{
+    width: 33.33%;
+    height: 275px;
+    margin: 0 auto;
+}
+.img-fb{
+    width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-tg{
+    width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-tw{
+    width: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

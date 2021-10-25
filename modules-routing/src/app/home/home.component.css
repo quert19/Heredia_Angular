@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    font-family:cursive ;
+    font-size: 100px;
+}
+.welcome{
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}

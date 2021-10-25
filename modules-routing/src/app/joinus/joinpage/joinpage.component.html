@@ -1,0 +1,29 @@
+<br>
+<h2>Join us in our forums!</h2>
+<br><br>
+<div class="fb">
+    <a 
+    routerLink="facebook">Facebook</a>
+  <img class="img-fb" [src]="fb" alt="">
+</div>
+
+<div class="tg">
+    <a  
+    style="text-align: center;"
+    class="nav-link"
+    aria-current="page"
+    routerLink="telegram"
+    routerLinkActive="active">Telegram</a>
+    <img class="img-tg" [src]="tg" alt="">
+</div>
+
+<div class="tw">
+    <a 
+    style="text-align: center;"
+    class="nav-link"
+    aria-current="page"
+    routerLink="twitter"
+    routerLinkActive="active">Twitter</a>
+  <img class="img-tw" [src]="tw" alt="">
+</div>
+<router-outlet></router-outlet>
